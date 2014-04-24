@@ -2,7 +2,7 @@
 
 I heard good things about http://cs109.org/ and have started going through it.
 
-However, I'm a big fan of watching videos at > 1X speed, and the built in viewer tools did not allow this.
+However, I'm a big fan of watching videos at > 1X speed, and the built in viewer tools did not allow this. In fact, the first lecture had enough intro material, and was slow enough at 1X - these tools were mostly written during that first lecture.
 
 However the syncronized slide viewer is kind of nice.
 
@@ -25,6 +25,9 @@ You need the rtmpdump set of tools (on Mac: brew install rtmpdump)
 	python slide_player.py L01.xml
 	# ^C when done
 
+### Content rights disclaimer
+
+Thanks go to all higher education institutions who make content freely available. Needless to say, all the content in the course belongs to the original copyright holders, these tools are for personal use only and simply provide an alternate way to view content being made freely available.
 
 ### License
 Copyright 2014 Preston Holmes
