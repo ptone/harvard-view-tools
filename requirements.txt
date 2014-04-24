@@ -1,0 +1,2 @@
+appscript==1.0.1
+pyquery==1.2.8
